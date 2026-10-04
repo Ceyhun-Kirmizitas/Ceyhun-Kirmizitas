@@ -44,9 +44,11 @@ Topics include authentication, Exchange Hybrid, migration and upgrade, high avai
 
 ## Technical Writing
 
-I publish Exchange Server, Exchange Online, hybrid, authentication, mail flow, migration, and troubleshooting articles at:
+I publish practical articles, field notes, and troubleshooting guides covering Exchange Server, Exchange Online, Exchange Hybrid, authentication, mail flow, migration, and PowerShell automation.
 
-[ceyhunkirmizitas.net](https://ceyhunkirmizitas.net)
+Many of the GitHub tools and scripts here are documented with usage examples, screenshots, and technical notes at:
+
+[ceyhunkirmizitas.net](https://ceyhunkirmizitas.net/)
 
 ## Connect
 
