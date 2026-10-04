@@ -35,12 +35,12 @@ Topics include authentication, Exchange Hybrid, migration and upgrade, high avai
 
 ## Areas of Focus
 
-- Microsoft Exchange Server
-- Exchange Online & Exchange Hybrid
+- Microsoft Exchange Server / Exchange Hybrid / Exchange Online
 - PowerShell
 - Microsoft Entra ID & Active Directory
 - Microsoft 365
 - Windows Server
+- Public / Private / Hybrid Cloud
 
 ## Technical Writing
 
