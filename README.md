@@ -35,13 +35,12 @@ Topics include authentication, Exchange Hybrid, migration and upgrade, high avai
 
 ## Areas of Focus
 
-- Microsoft Exchange Server 2016 / 2019 / Subscription Edition
+- Microsoft Exchange Server
 - Exchange Online & Exchange Hybrid
+- PowerShell
 - Microsoft Entra ID & Active Directory
 - Microsoft 365
-- PowerShell
-- Azure & Windows Server
-- VMware & Virtualization
+- Windows Server
 
 ## Technical Writing
 
